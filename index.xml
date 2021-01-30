@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Seunghyun Kim</title>
-    <link>https://matt413.github.io/</link>
+    <link>http://matt413.github.io/</link>
     <description>Recent content in About on Seunghyun Kim</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://matt413.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://matt413.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://matt413.github.io/about/</link>
+      <link>http://matt413.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://matt413.github.io/about/</guid>
+      <guid>http://matt413.github.io/about/</guid>
       <description>About Me  Hi, I&amp;rsquo;m Seunghyun Kim, a 2nd year CS PhD student at Georgia Institute of Technology. I am currently advised by Dr. Munmun De Choudhury. Before my years are Georgia Tech, I&amp;rsquo;ve earned my Bachelor, Master of Engineering, and Master of Science in Computer Science at Cornell University. Apart from studying, I love to dance, cook, and play video games!
 Research Interest My main research interest lies within the field of Social Computing; specifically, I am interested in studying how machine learning techniques could be utilized to build a thorough and robust system for detecting various online risks in social media.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://matt413.github.io/contact/</link>
+      <link>http://matt413.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://matt413.github.io/contact/</guid>
+      <guid>http://matt413.github.io/contact/</guid>
       <description> Email: seunghyun dot kim at gatech dot edu Skype: seunghyun dot kim dot 413   Social  Facebook LinkedIn  </description>
     </item>
     
